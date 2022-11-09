@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+ComputerVisionClient
+CognitiveServicesCredentials
+=======
+yfinance== 0.1.85
+streamlit==1.11.0
+>>>>>>> ce46b17 (2nd commit)
